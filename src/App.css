@@ -1,0 +1,12 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css');
+@import url('./styles.css');
+.App {
+  text-align: center;
+}
+
+.card-img-top{
+  width: 80%;
+  aspect-ratio: 3/3;
+  object-fit: contain;
+  margin: 1rem auto;
+}
